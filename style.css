@@ -1,0 +1,21 @@
+body{
+    background:lightblue;
+}
+.login_div{
+    float:none;
+    background:lightblue;
+    border-radius:10;
+    padding:15px;
+}
+#output{
+    background:white;
+    border-radius:10px;
+    border-top:10px solid red;
+    float:none;
+    text-align:left;
+    padding:10px;
+    width:70%;
+}
+#player1_name,#player2_name{
+    display:inline-block;
+}
